@@ -1,0 +1,3 @@
+/usr/src/crow-web-learn/crow_prj/build/CMakeFiles/rebuild_cache.dir
+/usr/src/crow-web-learn/crow_prj/build/CMakeFiles/crow_prj.dir
+/usr/src/crow-web-learn/crow_prj/build/CMakeFiles/edit_cache.dir

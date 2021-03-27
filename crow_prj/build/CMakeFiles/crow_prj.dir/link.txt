@@ -1,0 +1,1 @@
+/usr/local/bin/c++      CMakeFiles/crow_prj.dir/main.cpp.o  -o crow_prj /usr/lib/x86_64-linux-gnu/libboost_system.so /usr/lib/x86_64-linux-gnu/libboost_filesystem.so -lpthread 

@@ -13,3 +13,7 @@ To access the docker image via bash run:
 - `<host>` the directory on the host machine
 - `<container>` the directory on the docker container
 - `image` the name to run
+
+### Access the Web in the container from the machine
+
+`sudo docker run -v /home/yeeheng/learn/cpp/crow-web-learn:/usr/src/crow-web-learn -p 8080:8080 -e PORT=8080 cpp-container:latest /usr/src/crow-web-learn/crow_prj/build/crow_prj`
